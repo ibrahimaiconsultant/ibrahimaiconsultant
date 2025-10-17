@@ -38,5 +38,5 @@ I specialize in transforming complex business challenges into production-grade, 
 
 ### **📫 Let's Connect!**
 
--   **LinkedIn:** [linkedin.com/in/your-custom-url](https://linkedin.com/in/your-custom-url)
+-   **LinkedIn:** [[www.linkedin.com/in/ibrahim-ai-consultant-dhaka/](https://www.linkedin.com/in/ibrahim-ai-consultant-dhaka/)]
 -   **Email:** [ibrahim.ai.consultant@gmail.com](mailto:ibrahim.ai.consultant@gmail.com)
