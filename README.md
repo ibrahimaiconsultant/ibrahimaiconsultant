@@ -39,4 +39,4 @@ I specialize in transforming complex business challenges into production-grade, 
 ### **📫 Let's Connect!**
 
 -   **LinkedIn:** [linkedin.com/in/your-custom-url](https://linkedin.com/in/your-custom-url)
--   **Email:** [md.ibrahim.ai.consultant@email.com](mailto:md.ibrahim.ai.consultant@email.com)
+-   **Email:** [ibrahim.ai.consultant@gmail.com](mailto:ibrahim.ai.consultant@gmail.com)
