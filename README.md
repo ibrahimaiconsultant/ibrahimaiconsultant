@@ -79,4 +79,4 @@ I'm always open to discussing new projects, partnership opportunities, or innova
 
 - **Email:** `ibrahim.ai.consultant@gmail.com`
 - **LinkedIn:** `https://www.linkedin.com/in/ibrahim-ai-consultant-dhaka/`
-- **Schedule a Discovery Call:** `[YOUR_CALENDLY_OR_MEETING_LINK (Optional)]`
+- **Schedule a Discovery Call:** **[Click here to book a 30-minute meeting](https://calendly.com/ibrahim-ai-consultant/30min)**
