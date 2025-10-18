@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">MD IBRAHIM HOSSAIN</h1>
-<h3 align="center">AI Systems Architect & Founder, Guardian Protocol Suite 🛡️</h3>
+<h3 align="center">AI Systems Architect & Founder, Guardian Protocol Suite™ 🛡️</h3>
 <p align="center">
   <em>I don't just build software; I manufacture digital certainty.</em>
 </p>
@@ -18,7 +18,7 @@
 
 ### About Me
 
-আসসালামু আলাইকুম! I am an AI Systems Architect who engineers certainty in the uncertain world of software development. I am the creator of the **Guardian Protocol Suite**, a proprietary, constitution-driven digital factory designed to transform complex ideas into enterprise-grade digital assets with unprecedented speed and reliability.
+আসসালামু আলাইকুম! I am an AI Systems Architect who engineers certainty in the uncertain world of software development. I am the creator of the **Guardian Protocol Suite™**, a proprietary, constitution-driven digital factory designed to transform complex ideas into enterprise-grade digital assets with unprecedented speed and reliability.
 
 My approach is built on a foundation of automation, architectural rigor, and a "production-ready by design" philosophy. This unique system allows me to de-risk investments and guarantee predictable outcomes for my clients.
 
@@ -37,7 +37,7 @@ I operate a two-division digital agency to cater to a wide range of needs, from 
 
 ---
 
-### 🏛️ The Guardian Protocol Suite: My Digital Factory's Engine
+### 🏛️ The Guardian Protocol Suite™: My Digital Factory's Engine
 
 My services are powered by a proprietary assembly line of five integrated, AI-powered protocols. This is how I manufacture certainty:
 
@@ -49,7 +49,7 @@ My services are powered by a proprietary assembly line of five integrated, AI-po
 | **SENTINEL** | The Frontend Assembler | Constructs a modern, user-centric interface based on the live backend. |
 | **WATCHTOWER** | The Foundry | Deploys and monitors the final asset in a secure, automated cloud environment. |
 
-*Note: The underlying AI models, prompt architecture, and operational logic of the Guardian Protocol Suite are proprietary and represent the core intellectual property of my digital factory.*
+*Note: The underlying AI models, prompt architecture, and operational logic of the Guardian Protocol Suite™ are proprietary and represent the core intellectual property of my digital factory.*
 
 ---
 
