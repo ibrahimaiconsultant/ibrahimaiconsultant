@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="[YOUR_LOGO_OR_BANNER_IMAGE_URL]" alt="Guardian Protocol Suite Banner" width="800"/>
+  <img src="[আপনার কপি করা লোগোর URL]" alt="Guardian Protocol Suite Logo" width="800"/>
 </div>
 
 <h1 align="center">MD IBRAHIM HOSSAIN</h1>
 <h3 align="center">AI Systems Architect & Founder, Guardian Protocol Suite 🛡️</h3>
 <p align="center">
   <em>I don't just build software; I manufacture digital certainty.</em>
-</p>
+</p
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-ai-consultant-dhaka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
