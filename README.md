@@ -1,7 +1,11 @@
-# MD IBRAHIM HOSSAIN
-### Principal AI Systems Architect | Founder, Guardian Protocol Suite™
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibrahimaiconsultant/branding-assets/main/logo.png" alt="MD Ibrahim Hossain Logo" width="150"/>
+</p>
 
-> ## *I don't just build software; I manufacture digital certainty.*
+<h1 align="center">MD IBRAHIM HOSSAIN</h1>
+<h3 align="center">Principal AI Systems Architect | Founder, Guardian Protocol Suite™</h3>
+
+> <h3 align="center"><i>I don't just build software; I manufacture digital certainty.</i></h3>
 
 ---
 
@@ -73,4 +77,4 @@ I am always prepared to discuss how my Digital Factory can accelerate your most 
 
 - **Email:** `ibrahim.ai.consultant@gmail.com`
 - **LinkedIn:** [**My LinkedIn Profile**](https://www.linkedin.com/in/ibrahim-ai-consultant-dhaka/)
-- **Schedule a Discovery Call:** [**Click here to book a 30-minute meeting**](https://calendly.com/ibrahim-ai-consultant/30min)```
+- **Schedule a Discovery Call:** [**Click here to book a 30-minute meeting**](https://calendly.com/ibrahim-ai-consultant/30min)
