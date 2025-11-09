@@ -7,9 +7,6 @@
 # <h3 align="center">Founder, The Guardian Protocol Suite™</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-ai-consultant-dhaka/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:ibrahim.ai.consultant@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -50,7 +47,7 @@ My partnership model is a structured journey designed to deliver value at every 
 | **Phase 2: Implementation**| **High-Performance System Re-Architecture**<br>**Proactive Cybersecurity Implementation**<br>**Custom AI & Automation Integration** | Organizations ready to execute on the blueprint and build a resilient, scalable, and intelligent digital infrastructure. | A world-class digital platform that provides a measurable competitive advantage and ROI. |
 | **Phase 3: Partnership**| **Strategic Advisory & Retainers (Virtual CTO)** | Leadership teams requiring continuous, high-level guidance on their technology roadmap and risk management. | Long-term digital certainty and sustained market leadership. |
 
-**Interested in a Phase 1 Diagnosis for your e-commerce business? [Schedule a Discovery Call](https://calendly.com/ibrahim-ai-consultant/30min)**
+**Interested in a Phase 1 Diagnosis for your e-commerce business? [Schedule a Discovery Call](https://calendly.com/ibrahim-ai.consultant/30min)**
 
 ---
 
@@ -93,7 +90,7 @@ This is the proprietary five-protocol ecosystem that guarantees speed, quality, 
 
 - **Strategic Advisory:** Digital Transformation Strategy, Technology Risk Management, AI Governance.
 - **Systems Architecture:** High-Level System Design (HLSD), Cloud-Native & Serverless Architecture, Zero Trust Security, Event-Driven Architecture (EDA).
-- **E-commerce Analytics & CRO:** Data Integrity Audits, Conversion Rate Optimization (CRO), A/B Testing Strategy, Headless Commerce.
+- **E-commerce Analytics & CRO:** Data Integrity Audits, Conversion Rate Optimization (CRO), A-B Testing Strategy, Headless Commerce.
 - **AI & Data Platforms:** Generative AI & RAG Systems (Vertex AI, Gemini), Large-Scale Data Pipelines, MLOps.
 - **Primary Stack:** Go (Golang), Python (FastAPI), Kubernetes (GKE), Terraform, PostgreSQL, React, TypeScript.
 
