@@ -1,5 +1,6 @@
+```markdown
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ibrahimaiconsultant/branding-assets/main/logo.png" alt="Urban Move Tech Lead" width="120"/>
+  <img src="https://raw.githubusercontent.com/ibrahimaiconsultant/branding-assets/main/logo.png" alt="MD Ibrahim Hossain Logo" width="150"/>
   
   <h1>MD IBRAHIM HOSSAIN</h1>
   <h3>Zonal Operations Lead | Transport Solutions Architect</h3>
@@ -30,11 +31,13 @@
 
 I bring a rare combination of **Field Leadership** and **Software Engineering**. I am currently ready to lead the **Padma South Gateway Zone (PSG-Zone)**, managing the entire route from **Naodoba Toll Plaza to Muksudpur**.
 
+My goal is to optimize operations using technology, reduce costs, and ensure zero revenue leakage for **Urban Move**.
+
 | **Operational Capacity (Zonal Officer)** | **Technical Capacity (Tech Lead)** |
 | :--- | :--- |
 | **👥 Team Management:** Leading **2 Area Managers, 4 Supervisors, and 40+ Ticket Executives**. | **💻 BusMate 360:** Architected a Zero-Hardware ERP to manage the entire fleet using just smartphones. |
-| **📍 Route Control:** Managing **9-10 Active Stations** ensuring strict scheduling & discipline. | **💰 Revenue Protection:** Developed **"Digital Waybill"** logic to stop 100% of revenue leakage/theft. |
-| **⚡ Crisis Management:** Handling local issues, passenger complaints, and emergency breakdown support. | **🚀 Cost Cutting:** Replacing expensive POS machines with my **Bluetooth Printing Algorithm**. |
+| **📍 Route Control:** Managing **9-10 Active Stations** ensuring strict scheduling & discipline from Naodoba to Muksudpur. | **💰 Revenue Protection:** Developed **"Digital Waybill"** logic to stop 100% of revenue leakage/theft on the road. |
+| **⚡ Crisis Management:** Handling local issues, passenger complaints, and emergency breakdown support. | **🚀 Cost Cutting:** Replacing expensive POS machines with my **Bluetooth Printing Algorithm** (Saving Millions in Hardware). |
 
 ---
 
@@ -56,3 +59,37 @@ graph TD;
     C -->|Real-time Report| D[Owner Dashboard];
     C -->|Digital Waybill| E[Supervisor App];
     E -->|Check Passenger| F[Anti-Fraud System];
+```
+
+---
+
+### **🌍 OPERATIONAL VISION FOR "PADMA SOUTH GATEWAY ZONE"**
+As the Zonal Officer for this critical corridor, my roadmap is:
+
+1.  **Phase 1 (Optimization):** Implementing automated rosters for **40+ staff** to ensure 24/7 service without gaps at Naodoba, Pacchar, and Surjanagar stations.
+2.  **Phase 2 (Digitization):** Introducing the "Digital Waybill" to stop on-road cash theft by supervisors.
+3.  **Phase 3 (Expansion):** Making this zone a "Model Zone" to replicate success across all 700 counters of Urban Move.
+
+---
+
+### **💻 TECHNICAL ARSENAL**
+*(Building Enterprise-Grade Solutions)*
+
+I don't just manage people; I build scalable software to manage them efficiently.
+
+*   **Platform:** Next.js (PWA) - Fast performance on low-end mobile networks (2G/3G).
+*   **Backend:** Python & Node.js - For handling thousands of transactions simultaneously.
+*   **Database:** PostgreSQL - Banking-grade financial security for cash management.
+*   **IoT:** Soft-GPS (Phone-based tracking) & Bluetooth Thermal Printing Integration.
+
+---
+
+<div align="center">
+  <h3>Ready to Lead & Digitalize Urban Move.</h3>
+  <p>I am available for a full presentation on the <b>"Padma South Gateway"</b> roadmap.</p>
+  
+  <a href="https://wa.me/8801715354960">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-Click_Here-0069FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Meeting"/>
+  </a>
+</div>
+```
