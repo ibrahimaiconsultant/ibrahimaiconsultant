@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://raw.githubusercontent.com/ibrahimaiconsultant/branding-assets/main/logo.png" alt="MD Ibrahim Hossain Logo" width="150"/>
   
@@ -59,37 +58,3 @@ graph TD;
     C -->|Real-time Report| D[Owner Dashboard];
     C -->|Digital Waybill| E[Supervisor App];
     E -->|Check Passenger| F[Anti-Fraud System];
-```
-
----
-
-### **🌍 OPERATIONAL VISION FOR "PADMA SOUTH GATEWAY ZONE"**
-As the Zonal Officer for this critical corridor, my roadmap is:
-
-1.  **Phase 1 (Optimization):** Implementing automated rosters for **40+ staff** to ensure 24/7 service without gaps at Naodoba, Pacchar, and Surjanagar stations.
-2.  **Phase 2 (Digitization):** Introducing the "Digital Waybill" to stop on-road cash theft by supervisors.
-3.  **Phase 3 (Expansion):** Making this zone a "Model Zone" to replicate success across all 700 counters of Urban Move.
-
----
-
-### **💻 TECHNICAL ARSENAL**
-*(Building Enterprise-Grade Solutions)*
-
-I don't just manage people; I build scalable software to manage them efficiently.
-
-*   **Platform:** Next.js (PWA) - Fast performance on low-end mobile networks (2G/3G).
-*   **Backend:** Python & Node.js - For handling thousands of transactions simultaneously.
-*   **Database:** PostgreSQL - Banking-grade financial security for cash management.
-*   **IoT:** Soft-GPS (Phone-based tracking) & Bluetooth Thermal Printing Integration.
-
----
-
-<div align="center">
-  <h3>Ready to Lead & Digitalize Urban Move.</h3>
-  <p>I am available for a full presentation on the <b>"Padma South Gateway"</b> roadmap.</p>
-  
-  <a href="https://wa.me/8801715354960">
-    <img src="https://img.shields.io/badge/Schedule_Meeting-Click_Here-0069FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Meeting"/>
-  </a>
-</div>
-```
