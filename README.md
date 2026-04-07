@@ -52,7 +52,7 @@ I operate through a series of specialized execution engines that ensure unmatcha
 
 ### 📞 Connect with the Architect
 - **WhatsApp:** [+8801715354960](https://wa.me/8801715354960)
-- **Email:** pixelperfect.its@gmail.com / ibrahim.dev360@gmail.com
+- **Email:** pixelperfect.its@gmail.com 
 - **Location:** Shibchar, Madaripur, Bangladesh.
 
 ---
